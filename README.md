@@ -123,7 +123,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
+Chandu Sai Challagulla - [@chandusai358@gmail.com](chandusai358@gmail.com)
 
 
 ## Acknowledgements
